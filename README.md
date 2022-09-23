@@ -49,5 +49,9 @@ print (Y_pred)
 ## OUTPUT
 ![output](output4.png)
 
+
+
+![output](OUTPUTGRAPH.png)
+
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
