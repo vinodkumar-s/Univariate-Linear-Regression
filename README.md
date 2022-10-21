@@ -49,8 +49,8 @@ Y_pred=m*X+c
 print (Y_pred)
 
 import matplotlib.pyplot as plt
-plt.scatter(X,Y,color = 'yellow')
-plt.plot(X,Y_pred,color = 'black')
+plt.scatter(X,Y,color = 'blue')
+plt.plot(X,Y_pred,color = 'red')
 plt.title('xv=y')
 plt.show()
 
